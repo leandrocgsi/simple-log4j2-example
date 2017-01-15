@@ -1,1 +1,1 @@
-# simple-log4j2-example
+# Simple Log4j2 Example
